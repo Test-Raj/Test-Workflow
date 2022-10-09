@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@vercel/ncc": "^0.34.0",
+    "@zeit/ncc": "^0.22.3"
+  }
+}
